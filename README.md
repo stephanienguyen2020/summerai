@@ -1,7 +1,8 @@
 # Summer AI
 <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
 [![Made with Python](https://img.shields.io/badge/Python->=3.10-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
-<img width="2402" alt="SummerAI (1)" src="https://github.com/chrislevn/pixieai/assets/32094007/14e786cf-0151-4172-9698-caf1564a55a2">
+
+<img width="2562" alt="SummerAI_FigJam" src="https://github.com/stephanienguyen2020/summerai/assets/32094007/5aa2f7f5-b961-43ae-b35e-9d680d7fbb76">
 
 This project aims to develop an artificial intelligence (AI) assistant to streamline the nurse visit process, saving time for both nurses, doctors, and patients.
 
